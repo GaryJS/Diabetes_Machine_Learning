@@ -44,7 +44,7 @@ A complete machine learning pipeline analyzing the factors most associated with 
 ### **Strongest Predictors**
 Analysis shows the following variables contributed most to predicting diabetes:
 
-- **Cholesterol Levels** – strongest single predictor  
+- **High Cholesterol** – strongest single predictor  
 - **Blood Pressure** – positively correlated with diabetes outcome  
 - **General Health** – older individuals showed higher likelihood  
 - **BMI** – low predictive contribution
