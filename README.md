@@ -13,7 +13,7 @@ Analysis shows the following variables contributed most to predicting diabetes:
 - **Age** – older individuals showed higher likelihood  
 - **Insulin & SkinThickness** – low predictive contribution
 
-<img src="images/feature_contribution.png" width="500"/>
+<img src="image/feature_contribution.png" width="500"/>
 
 ### **Model Performance**
 Two confusion matrices (from different models or thresholds) show:
@@ -22,10 +22,10 @@ Two confusion matrices (from different models or thresholds) show:
 - Model 2: Slightly more balanced recall/precision tradeoff  
 
 **Confusion Matrix (Model 1)**  
-<img src="images/cm_1.png" width="450"/>
+<img src="image/cm_1.png" width="450"/>
 
 **Confusion Matrix (Model 2)**  
-<img src="images/cm_2.png" width="450"/>
+<img src="image/cm_2.png" width="450"/>
 
 ### **Overall Conclusion**
 - Glucose alone explains a large portion of variance  
@@ -116,14 +116,14 @@ Key steps:
 ## Model Evaluation  
 
 ### **Confusion Matrix (Model 1)**  
-<img src="images/cm_1.png" width="450"/>
+<img src="image/cm_1.png" width="450"/>
 
 - Sensitivity: 0.15263684436186936
 - Specificity: 0.9786689224719358
 - Accuracy: 0.8647508672343109
 
 ### **Confusion Matrix (Model 2)**  
-<img src="images/cm_2.png" width="450"/>
+<img src="image/cm_2.png" width="450"/>
 
 - Sensitivity: 0.7720451622123767
 - Specificity: 0.7215985733555865
@@ -168,7 +168,7 @@ Overall percentage of correct predictions (both diabetics and non-diabetics).
   sensitivity and specificity give a much clearer picture of medical relevance.
 
 ### **Feature Contribution Plot**
-<img src="images/feature_contribution.png" width="500"/>
+<img src="image/feature_contribution.png" width="500"/>
 
 ---
 
