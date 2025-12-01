@@ -2,6 +2,42 @@
 A complete machine learning pipeline analyzing the factors most associated with diabetes and predicting diabetes outcomes using classification models.
 
 ---
+## Table of Contents
+
+- [Key Insights & Findings](#key-insights--findings)
+  - [Strongest Predictors](#strongest-predictors)
+  - [Model Performance](#model-performance)
+  - [Overall Conclusion](#overall-conclusion)
+
+- [Project Summary](#project-summary)
+
+- [Problem Statement](#problem-statement)
+
+- [Dataset Overview](#dataset-overview)
+
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+
+- [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+
+- [Modeling Approach](#modeling-approach)
+  - [Logistic Regression](#1-logistic-regression)
+  - [Evaluation Metrics](#2-evaluation-metrics)
+
+- [Model Evaluation](#model-evaluation)
+  - [Confusion Matrix (Model 1)](#confusion-matrix-model-1)
+  - [Confusion Matrix (Model 2)](#confusion-matrix-model-2)
+  - [Understanding the Metrics](#understanding-the-metrics)
+  - [Why These Metrics Matter in Healthcare](#why-these-metrics-matter-in-healthcare)
+  - [Feature Contribution Plot](#feature-contribution-plot)
+
+- [Conclusions](#conclusions)
+
+- [How to Run Locally](#how-to-run-locally)
+
+- [Tech Stack](#tech-stack)
+
+- [License](#license)
+---
 
 ## Key Insights & Findings  
 
