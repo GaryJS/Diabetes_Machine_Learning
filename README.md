@@ -221,8 +221,8 @@ Overall percentage of correct predictions (both diabetics and non-diabetics).
 ---
 
 ## Conclusions  
-- Glucose is the most dominant predictor  
-- BMI and Age meaningfully improve classification  
+- High Cholesterol is the most dominant predictor  
+- High Blood Pressure and General Health meaningfully improve classification  
 - Logistic Regression provides a strong interpretable baseline  
 - The dataset can support more advanced models (Random Forest, XGBoost) for improved accuracy  
 - Preprocessing significantly impacts performance due to missing/zero values  
