@@ -44,10 +44,10 @@ A complete machine learning pipeline analyzing the factors most associated with 
 ### **Strongest Predictors**
 Analysis shows the following variables contributed most to predicting diabetes:
 
-- **Glucose Levels** – strongest single predictor  
-- **BMI** – positively correlated with diabetes outcome  
-- **Age** – older individuals showed higher likelihood  
-- **Insulin & SkinThickness** – low predictive contribution
+- **Cholesterol Levels** – strongest single predictor  
+- **Blood Pressure** – positively correlated with diabetes outcome  
+- **General Health** – older individuals showed higher likelihood  
+- **BMI** – low predictive contribution
 
 <img src="image/feature_contribution.png" width="500"/>
 
@@ -94,15 +94,27 @@ This project builds and evaluates classification models to identify patterns amo
 ## Dataset Overview  
 The dataset includes the following features:
 
-- Pregnancies  
-- Glucose  
-- Blood Pressure  
-- SkinThickness  
-- Insulin  
-- BMI  
-- DiabetesPedigreeFunction  
-- Age  
-- Outcome (target variable)
+- CholCheck
+- Stroke
+- AnyHealthcare
+- HvyAlcoholConsump
+- NoDocbcCost
+- HeartDiseaseorAttack
+- DiffWalk
+- Veggies
+- PhysActivity
+- Fruits
+- HighChol
+- HighBP
+- Sex
+- Smoker
+- Education
+- PhysHlth
+- BMI
+- MentHlth
+- GenHlth
+- Income
+- Age 
 
 Common data issues addressed:
 
