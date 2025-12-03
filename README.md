@@ -64,7 +64,7 @@ Two confusion matrices (from different models or thresholds) show:
 <img src="image/cm_2.png" width="450"/>
 
 ### **Overall Conclusion**
-- Glucose alone explains a large portion of variance  
+- High Cholesterol alone explains a large portion of variance  
 - Multivariate models outperform single-metric heuristics  
 - Good baseline performance, but further tuning and feature engineering could improve scores  
 - Dataset has limitations (missing values, imputation, imbalanced classes)
@@ -127,7 +127,7 @@ Common data issues addressed:
 ## Exploratory Data Analysis (EDA)  
 Key steps:
 
-- Distribution analysis of glucose, BMI, and age  
+- Distribution analysis of High Cholesterol, Blood Pressure, and General Health  
 - Scatterplots showing relationships with Outcome  
 - Correlation analysis among features  
 - Identification of outliers and zero-inflated columns  
